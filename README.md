@@ -6,4 +6,4 @@ My journey on learning HTML!
 
 All of my past itterations/files/progress is under the "progress" folder
 
-Progress: 13% [###-----------------] (On W3Schools)
+Progress: 14% [###-----------------] (On W3Schools)
